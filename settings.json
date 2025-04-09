@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Nigas_In_Da_Street.aternos.me",
+    "port": 27090,
     "version": "1.19.3"
   },
 
@@ -25,8 +25,8 @@
     },
 
     "anti-afk": {
-      "enabled": false,
-      "sneak": false,
+      "enabled": true,
+      "sneak": true,
       "jump": false,
       "rotate": false,
 
